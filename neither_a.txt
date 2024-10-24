@@ -1,0 +1,5 @@
+git init -b new_branch
+git add file.txt
+git commit -m "initial commit"
+git remote add origin
+git push -u origin new_branch
