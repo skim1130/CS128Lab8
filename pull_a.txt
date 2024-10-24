@@ -1,0 +1,2 @@
+git checkout new-branch
+git pull remote-blah
